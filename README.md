@@ -1,10 +1,9 @@
 # Assignment2
 
-There are four parts for assignment 2:
+There are three parts for assignment 2:
 - [ ] Part 1 - Writing a program that uses multiple classes
-- [ ] Part 2 - Fixing mistakes to understand common errors in Java syntax and interpret error messages accordingly
-- [ ] Part 3 - Writing methods using core java constructs
-- [ ] Part 4 - Starting your game development to put your learning into practice in a creative way
+- [ ] Part 2 - Tracing and understanding recursive methods
+- [ ] Part 3 - Continuing your game development to put your learning into practice in a creative way
 
 ## Part 1: Modeling Wellesley's CS111 Class
 In the first task of the assignment, you will employ object-oriented programming principles to model a section of CS 111. You will create student and professor classes to represent students and professors, and provide methods that will allow you to get statistics about the class.
