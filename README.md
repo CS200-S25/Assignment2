@@ -1,7 +1,7 @@
 # Assignment2
 
 There are four parts for assignment 2:
-- [ ] Part 1 - Code Tracing with short answers to trace through code segments in Java
+- [ ] Part 1 - Writing a program that uses multiple classes
 - [ ] Part 2 - Fixing mistakes to understand common errors in Java syntax and interpret error messages accordingly
 - [ ] Part 3 - Writing methods using core java constructs
 - [ ] Part 4 - Starting your game development to put your learning into practice in a creative way
@@ -19,14 +19,13 @@ It is recommended that you move through the assignment in the following order:
 2) The Student class
 3) The CS111 class
 
-## Part 2: Fixing Mistakes
-Complete the questions in `Mistakes.java`. By the end of this task, `Mistakes.java` should compile and run smoothly.
+## Part 2: Recursion
+Complete the questions about the two recursive methods in `Assignment2.pdf`.
 
 Goals of this part:
- * Understand common errors in Java syntax and interpret error messages accordingly.
- * Understand Javadoc and how it should be formatted for this course.
+ * Practice tracing and understanding recursive methods.
 
-## Part 3: Writing Code
+## Part 3: Text-Based Adventure Game
 In this section, you will write your own methods and first Java program to model a well-known game. This requires effective command of Java constructs, 
 including some APIs we introduced in class (Scanner and Random). You will continue to build your skills with loops, conditionals, and more Java constructs throughout the semester. Complete the file `RPS.java` for this task.
 
